@@ -1,1 +1,6 @@
-.static-box{ position: static;}
+.static-box{ background-color:blue; height: 200px; width: 200px; color: white;
+    position: static;}
+
+.relative-box{ background-color:red; height: 200px; width: 200px; color: white;
+    position: relative; 
+transform: translateX(30px) translateY(20px)}

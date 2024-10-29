@@ -4,3 +4,7 @@
 .relative-box{ background-color:red; height: 200px; width: 200px; color: white;
     position: relative; 
 transform: translateX(30px) translateY(20px)}
+
+.absolute-box{background-color: black; height: 200px; width: 200px; color: white;
+position: absolute;
+transform: translateX(10px) translateY(15px)}
